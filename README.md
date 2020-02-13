@@ -5,4 +5,7 @@ Future Plans:
 - Add Phishing Outlook Sign-in to the RAT
 - Gain access to contacts through above Phishing attack and spread malware to selected people
 
-This could cause a lot of damage on systems. 
+This could cause a lot of damage on systems. A bit of social engineering required to place file on victims computer but due to the server capabilites of accessing any device from anywhere, you can transfer a file from your device (payload) onto the victims device on any folder with user access (like User startup) to confirm eternal control of targetted PC.
+
+This is mainly targetted towards windows PCs. It is functional on Macbooks but there is no way to start this up on startup.
+
